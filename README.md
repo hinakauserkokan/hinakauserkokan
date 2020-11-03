@@ -6,7 +6,7 @@ Hi, I'm Hina. I'm currently pursuing my bachelor's degree majoring in Computer S
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hina-kauser-2005/)
 [![Website](http://img.shields.io/badge/quora-%23E4405F.svg?&style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Hina-Kokan)
 [![Website](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](hinakokan20@gmail.com)
-[![Website](https://img.shields.io/badge/medium-%23D14836.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hinakokan20)
+[![Website](https://img.shields.io/badge/medium-%23057836.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hinakokan20)
 
 <h4>Skills 🚀</h4>
 
