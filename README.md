@@ -28,7 +28,7 @@ Hi, I'm Hina. I'm currently pursuing my bachelor's degree majoring in Computer S
 ![Website](https://img.shields.io/badge/PyCharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 
 
-<h4 style="margin-top:30px;">⚡ Most Used Languages</h4>
+<!--<h4 style="margin-top:30px;">⚡ Most Used Languages</h4>
 
 [![Top Langs]()
 
@@ -38,4 +38,4 @@ Hi, I'm Hina. I'm currently pursuing my bachelor's degree majoring in Computer S
 
 <h4 style="margin-top:20px;">⚡ Weekly Stats</h4>
 
-<img src=""/>
+<img src=""/>-->
