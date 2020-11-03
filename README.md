@@ -30,12 +30,12 @@ Hi, I'm Hina. I'm currently pursuing my bachelor's degree majoring in Computer S
 
 <h4 style="margin-top:30px;">⚡ Most Used Languages</h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pythonhubpy&langs_count=6)](https://github.com/pythonhubpy/github-readme-stats)
+[![Top Langs]()
 
 <h4>⚡ Github Stats</h4>
 
-<img alt="Python Hub's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pythonhubpy&count_private=true&show_icons=true&hide_border=true&include_all_commits=true"/>
+<img alt="Github Stats" src=""/>
 
 <h4 style="margin-top:20px;">⚡ Weekly Stats</h4>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PythonHub"/>
+<img src=""/>
