@@ -1,6 +1,6 @@
 <h1>Nice to see you here 👋 </h1>
 
-Hi, I'm Hina. I'm currently pursuing my bachelor's degree majoring in Computer Science and Engineering from ![SMVEC](https://smvec.ac.in/) I'm a designer, devloper and an open source advocate. Feel free to connect with me here:
+Hi, I'm Hina. I'm currently pursuing my bachelor's degree majoring in Computer Science and Engineering from [SMVEC](https://smvec.ac.in/) I'm a designer, devloper and an open source advocate. Feel free to connect with me here:
 
 [![Website](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__h.i.n.a___/)
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hina-kauser-2005/)
